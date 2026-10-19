@@ -14,4 +14,4 @@ Problem sets, formal algorithmic derivations, truth tables, and academic logic e
 
 ## Author
 
-Authored by [Felipe Madson](https://github.com/FelipeMadson).
+Authored by [Felipe Madison](https://github.com/FelipeMadson).
