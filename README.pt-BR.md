@@ -14,4 +14,4 @@ Caderno de exercícios de lógica formal, derivações algorítmicas, tabelas-ve
 
 ## Autor
 
-Desenvolvido por [Felipe Madson](https://github.com/FelipeMadson).
+Desenvolvido por [Felipe Madison](https://github.com/FelipeMadson).
